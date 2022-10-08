@@ -1,3 +1,1 @@
-CodeChef Practice and Assignments
-
-BDS and OOP
+My CodeChef Practice and Assignments to document my progress.
