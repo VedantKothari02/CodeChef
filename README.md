@@ -1,1 +1,2 @@
-My CodeChef Practice and Assignments to document my progress.
+My CodeChef Practice and Assignments 
+
